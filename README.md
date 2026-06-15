@@ -1,5 +1,9 @@
-# digital-payment-analytics-dashboard
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d36b2094-75ef-46bf-8197-2c57ae11e3aa" /># digital-payment-analytics-dashboard
 A data analytics platform for analyzing digital payment transactions using SQL, Python, Pandas, NumPy, and Power BI to generate spending insights, fraud-risk indicators, and interactive dashboards.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e72ccd87-5b3d-4228-9234-bbc1fd559a5d" />
+
+
 ## Features
 
 - ETL Pipeline using Python
